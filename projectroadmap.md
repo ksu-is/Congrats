@@ -13,7 +13,8 @@ https://github.com/ashratigan/bucket-list-client
 
 What we would like those is that it continues functioning and after one is selected it will not populate that one again all until the last one is complete and again reads out the message congratulating you for completing your bucket list challenge. 
 
-Melisa will be working on finding the item that will be able to cross out items therefore they cannot be chosen again
+Melisa will be working on finding the item that will be able to cross out items therefore they cannot be chosen again.
+
 Austin will be working on the random generating ability of doing full sentences if needed rather than just one word options
 
 Both of us are focusing on one portion and working to combine them so they will flow together
