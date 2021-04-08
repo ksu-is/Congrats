@@ -10,7 +10,6 @@ But also this one as they have it formatted to what seems to be a bucket list se
 https://github.com/ashratigan/bucket-list-client
 
 What we would like those is that it continues functioning and after one is selected it will not populate that one again all until the last one is complete and again reads out the message congratulating you for completing your bucket list challenge. 
-![image](https://user-images.githubusercontent.com/77759089/114107335-cc03fc00-989e-11eb-945a-194ce86d82a1.png)
 
 One code that we have attempted is the following
 
