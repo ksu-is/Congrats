@@ -1,7 +1,7 @@
 For our project the idea is to create a random generator that basically you could use to put in bucket list items or just things someone would like to do and then after running the code it will generate an option for you to do while crossing it off the list as well.
 After that once you have visited or completed all the items it will read out the message saying, “Congratulations on completing your Bucket List!” 
 
-I was thinking a random number generator sequence would help populate the start of the python code like this one from github
+We were thinking a random number generator sequence would help populate the start of the python code like this one from github
 
 https://github.com/libmir/mir-random
 
