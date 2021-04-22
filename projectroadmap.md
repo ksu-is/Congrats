@@ -35,6 +35,7 @@ with open("MyFile.txt", "r") as file:
     
     
   Updates as of 4.22.21
+  
     After further review it seems that using a text file will be needed in order for this process to work
     In order for this to function a folder will be needed to hold the program and two text files
     one file will be called "completed task" which will be the bucket list items that gets updated each time the
