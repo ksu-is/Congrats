@@ -1,0 +1,13 @@
+import random
+if __name__=="__main__":
+    print("Lets start")
+    while True:
+        user_input = int(input("1.Do you want to randomly get a task of your bucket list\n2.Add a new item to bucket list\n3.Exit\n"))
+        if user_input ==1:
+            bucket_list =  open('myBucketList.txt','r')
+            lines = bucket_list.readlines()
+            get_random_line = random.choice(lines)
+            print("Here you go:",get_random_line.strip())
+            complete = int(input("1. Are you going to complete it now?\n2. Rerun\n"))
+            if complete ==1:
+                completed_task = open('completedTasks.txt','a')
