@@ -40,3 +40,7 @@ with open("MyFile.txt", "r") as file:
     In order for this to function a folder will be needed to hold the program and two text files
     one file will be called "completed task" which will be the bucket list items that gets updated each time the
     code is ran.
+    
+    We have started the beginning of code however still make sure formatting is correct amongst pulling
+    correct information from the two files. Outside sources like YouTube, Google, etc.
+    has been helping create this file.
