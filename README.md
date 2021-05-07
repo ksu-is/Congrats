@@ -15,3 +15,16 @@ The program will then make that option no longer available
 User than continues process
 
 After final item is chosen they receive a message “Congratulations you do it!”
+
+
+Download the 3 files
+
+Bucketlist Code.py
+
+myBucketList.txt
+
+completedTask.txt
+
+
+After downloading all files input your bucket list items in the myBuckerList.txt and have all files saved in one folder location and open
+the python program and follow the instructions.
